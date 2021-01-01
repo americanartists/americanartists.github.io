@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundTransparent="false"
+	title="Jules White, Perspective in Motion, Gregory Way Gallery, March 26 - April 30, 2011"
+	frameWidth="10"
+	thumbColumns="3"
+	thumbRows="4"
+
+>
+  <image imageURL="images/japan_collage.jpg"
+	thumbURL="thumbs/japan_collage.jpg"
+	linkURL="images/japan_collage.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Japan at Rest, Photocollage, 3' X 6', 2008]]></caption>
+  </image>
+  <image imageURL="images/porch_collage.jpg"
+	thumbURL="thumbs/porch_collage.jpg"
+	linkURL="images/porch_collage.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Porch, Photocollage, 3.5' X 2.5', 2004]]></caption>
+  </image>
+  <image imageURL="images/typewriter.jpg"
+	thumbURL="thumbs/typewriter.jpg"
+	linkURL="images/typewriter.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Typewriter, Photocollage, 3.5' X 3', 2002]]></caption>
+  </image>
+  <image imageURL="images/wengen_collage_photo_of_it.png"
+	thumbURL="thumbs/wengen_collage_photo_of_it.png"
+	linkURL="images/wengen_collage_photo_of_it.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Wengen, Photocollage, 6' X 3', 2007]]></caption>
+  </image>
+  <image imageURL="images/Gate_500dpi.jpg"
+	thumbURL="thumbs/Gate_500dpi.jpg"
+	linkURL="images/Gate_500dpi.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Gate, Photocollage, 3.5' X 2.5', 2008]]></caption>
+  </image>
+  <image imageURL="images/photo-4.JPG"
+	thumbURL="thumbs/photo-4.JPG"
+	linkURL="images/photo-4.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Reflections of Form, Acrylic on Canvas, 5' X 3', 2011]]></caption>
+  </image>
+</simpleviewergallery>

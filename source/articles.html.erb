@@ -1,0 +1,21 @@
+---
+---
+
+<table>
+<% blog.articles.each do |article, idx| %>
+
+
+  <article>
+    <h1>
+      <a href="<%= article.url %>"
+       style="font-size: small;color: rgb(255, 255, 255);">
+       "<%= article.title %>"</a>
+       <span style="font-size:small; color:rgb(205,205,205);">by <%= article.data[:authors] %></span>
+      
+    </h1>
+   
+    <%= article.summary %>
+
+    <a href="<%= article.url %>" style="font-size: small;color: rgb(255, 255, 255);">Read more...</a>
+  </article>
+<% end %>
