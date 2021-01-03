@@ -3,8 +3,8 @@
 
 activate :blog do |blog|
   # set options on blog
-  blog.permalink = "blog/:title.html"
-  blog.sources = "blog/:title.html"
+  blog.permalink = "content/:title.html"
+  blog.sources = "content/:title.html"
   blog.layout = "article"
 end
 
